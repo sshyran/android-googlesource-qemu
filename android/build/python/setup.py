@@ -45,7 +45,7 @@ setuptools.setup(
         "console_scripts": ["aemu-build=aemu.cmake:launch"],
     },
     install_requires=[
-        "pip==19.0.3",
+        "pip==21.1",
         "enum34==1.1.6",
         "requests==2.21.0",
         "absl-py==0.6.1",
